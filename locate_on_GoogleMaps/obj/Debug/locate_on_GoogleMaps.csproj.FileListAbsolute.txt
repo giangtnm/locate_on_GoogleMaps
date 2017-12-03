@@ -1,0 +1,11 @@
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\locate_on_GoogleMaps.exe.config
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\locate_on_GoogleMaps.exe
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\locate_on_GoogleMaps.pdb
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\obj\Debug\locate_on_GoogleMaps.csprojResolveAssemblyReference.cache
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\obj\Debug\locate_on_GoogleMaps.MainForm.resources
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\obj\Debug\locate_on_GoogleMaps.csproj.GenerateResource.Cache
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\obj\Debug\locate_on_GoogleMaps.exe
+C:\Users\Giang Thai\Documents\GitHub\locate_on_GoogleMaps\locate_on_GoogleMaps\obj\Debug\locate_on_GoogleMaps.pdb
